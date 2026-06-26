@@ -1,0 +1,10 @@
+openai-whisper
+pyttsx3
+sounddevice
+faiss-cpu
+sentence-transformers
+rank-bm25
+gradio
+PyPDF2
+numpy
+pytest
